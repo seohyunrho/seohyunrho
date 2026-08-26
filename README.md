@@ -6,7 +6,10 @@
 
 <h3>Hi there 👋</h3>
 
-<p>데이터를 구조화하고, 인사이트로 연결합니다</p>
+<p align="center">
+  Building reliable data foundations<br>
+  for better insights and decisions 🔗
+</p>
 
 <br>
 
